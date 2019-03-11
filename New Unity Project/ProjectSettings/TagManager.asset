@@ -6,6 +6,10 @@ TagManager:
   tags:
   - Background
   - Ground
+  - Start
+  - End
+  - Bad
+  - Good
   layers:
   - Default
   - TransparentFX

@@ -12,6 +12,11 @@ TextureImporter:
     21300014: Desert_Tiles_PNG_7
     21300016: Desert_Tiles_PNG_8
     21300018: Desert_Tiles_PNG_9
+    21300020: Desert_Tiles_PNG_10
+    21300022: Desert_Tiles_PNG_11
+    21300024: Desert_Tiles_PNG_12
+    21300026: Desert_Tiles_PNG_13
+    21300028: Desert_Tiles_PNG_14
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -131,6 +136,106 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718107fcb3f0ec643b3bb30e51e74e1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tiles_PNG_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f42703b6209ccf40a05ed83bee85389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tiles_PNG_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41f3853311f17940898704aac718fa9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tiles_PNG_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecdd654a7c6e09641944339b45a2f18a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tiles_PNG_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533f15eae1617fb49982556f3f1e0bd9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_Tiles_PNG_5
+      rect:
+        serializedVersion: 2
+        x: 0
         y: 32
         width: 32
         height: 32
@@ -141,13 +246,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7885dba86a5b87044b47427bbc4926d8
+      spriteID: 43e86148b01c9a24eaddff012d641b48
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Desert_Tiles_PNG_1
+      name: Desert_Tiles_PNG_6
       rect:
         serializedVersion: 2
         x: 32
@@ -161,13 +266,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 040f8bf9310fef241b90c8f146772148
+      spriteID: f6f8173b2ea58d04eaaea7d8e1721fc5
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Desert_Tiles_PNG_2
+      name: Desert_Tiles_PNG_7
       rect:
         serializedVersion: 2
         x: 64
@@ -181,13 +286,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f350acbfce8f4f64c9c91ab5bc05d62f
+      spriteID: f9c535da1aaa68140ad8516aeb8691f6
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Desert_Tiles_PNG_3
+      name: Desert_Tiles_PNG_8
       rect:
         serializedVersion: 2
         x: 96
@@ -201,13 +306,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d9d4a24981f1a2744b40b70b2c04a4e6
+      spriteID: a8c501e31af727740baeb0e2ae28fdc2
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Desert_Tiles_PNG_4
+      name: Desert_Tiles_PNG_9
       rect:
         serializedVersion: 2
         x: 128
@@ -221,13 +326,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 67b298eda21b03b469edd74502117b43
+      spriteID: 2e18cb2a515dd82488b53d30cee7a63b
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Desert_Tiles_PNG_5
+      name: Desert_Tiles_PNG_10
       rect:
         serializedVersion: 2
         x: 0
@@ -241,13 +346,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bf37e9d3f5edf874082b28fe6998a75d
+      spriteID: 1a092703f2918a848a3bde358fb9bad6
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Desert_Tiles_PNG_6
+      name: Desert_Tiles_PNG_11
       rect:
         serializedVersion: 2
         x: 32
@@ -261,13 +366,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5f83a3d290621b84db2628780c8b4c25
+      spriteID: 47b3dfa315f54114bba2de57e5aa28f3
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Desert_Tiles_PNG_7
+      name: Desert_Tiles_PNG_12
       rect:
         serializedVersion: 2
         x: 64
@@ -281,13 +386,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 921c570d7b3ea7643bd3db0ddb97450b
+      spriteID: 55969be6e934dd14e90c7476f0058ffe
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Desert_Tiles_PNG_8
+      name: Desert_Tiles_PNG_13
       rect:
         serializedVersion: 2
         x: 96
@@ -301,13 +406,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a06fb997a03097047a59e403f974d66f
+      spriteID: c47674dcb33eb2646bbccedc462e4aa7
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Desert_Tiles_PNG_9
+      name: Desert_Tiles_PNG_14
       rect:
         serializedVersion: 2
         x: 128
@@ -321,7 +426,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a803edc7e4af19f4db61d0a3f692fc9d
+      spriteID: 3c73ca1cb8354894cb93e523055dad38
       vertices: []
       indices: 
       edges: []
